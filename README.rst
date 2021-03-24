@@ -1,9 +1,9 @@
 .. -*- mode: rst -*-
 
 
-============
-riotcrawlerz
-============
+=========
+riotcrawl
+=========
 
 
 Spiders for scraping data of Direct Actions.
